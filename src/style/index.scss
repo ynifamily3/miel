@@ -1,0 +1,15 @@
+@font-face {
+  font-family: NotoSansKR;
+  src: url("../assets/NotoSansKR-Regular.otf") format("opentype");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: NotoSansKR;
+  src: url("../assets/NotoSansKR-Bold.otf") format("opentype");
+  font-weight: bold;
+}
+
+body {
+  font-family: NotoSansKR;
+}
